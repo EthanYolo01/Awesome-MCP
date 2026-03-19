@@ -471,6 +471,7 @@ MCP gives AI broad tool-calling capabilities. Security cannot be an afterthought
 | Tool | GitHub | Description |
 |---|---|---|
 | **mcp-scan** | [invariantlabs-ai/mcp-scan](https://github.com/invariantlabs-ai/mcp-scan) | Open source MCP security scanner; detects prompt injection, tool poisoning, suspicious tool descriptions |
+| **Intercept** | [policylayer/intercept](https://github.com/policylayer/intercept) | Open source control layer for MCP tool calls; drop-in proxy that enforces rate limits, spend caps, access controls, and argument restrictions via YAML policy files; sub-ms evaluation; audit logging |
 | **BoostSecurity** | Official | Prevents AI coding agents from introducing vulnerable npm/pip packages; CI/CD integration |
 | **Cycode** | Official | SAST + secret scanning + IaC security; catches security issues at development time |
 
