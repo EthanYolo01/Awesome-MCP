@@ -473,6 +473,7 @@ MCP 赋予 AI 广泛的工具调用能力，安全问题不容忽视。
 | 工具 | GitHub | 说明 |
 |---|---|---|
 | **mcp-scan** | [invariantlabs-ai/mcp-scan](https://github.com/invariantlabs-ai/mcp-scan) | 开源 MCP 安全扫描工具；检测提示注入、工具中毒、可疑工具描述 |
+| **Intercept** | [policylayer/intercept](https://github.com/policylayer/intercept) | 开源 MCP 工具调用控制层；通过 YAML 策略文件实现速率限制、消费上限、访问控制和参数限制；亚毫秒级评估；审计日志 |
 | **BoostSecurity** | 官方提供 | 防止 AI 编码 Agent 引入有漏洞的 npm/pip 包；CI/CD 集成 |
 | **Cycode** | 官方提供 | SAST + 密钥扫描 + IaC 安全；开发阶段即捕获安全问题 |
 
