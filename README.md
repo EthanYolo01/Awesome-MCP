@@ -303,6 +303,8 @@ The hottest MCP category — giving AI the real ability to browse the web.
 | ⭐ **Git MCP** | [modelcontextprotocol/servers/git](https://github.com/modelcontextprotocol/servers/tree/main/src/git) | Official Git tools; read history, search commits, manage branches |
 | 🔵 **Sentry MCP** | [getsentry/sentry-mcp](https://github.com/getsentry/sentry-mcp) | Query Sentry errors, analyze stack traces, create issues — AI-assisted debugging |
 | ⭐ **PAIML MCP Agent Toolkit** | [paiml/mcp-agent-toolkit](https://github.com/paiml/mcp-agent-toolkit) | Zero-config AI context generation; Rust/Deno/Python scaffolding; hybrid neuro-symbolic code analysis |
+- [nowork-studio/toprank](https://github.com/nowork-studio/toprank) 🐍 ☁️ - Open-source Claude Code plugin providing 9 SEO and Google Ads skills — meta tags, schema markup, keyword bids, and CMS content pushes.
+
 
 ### 💬 Communication & Collaboration
 
