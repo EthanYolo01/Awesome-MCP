@@ -383,6 +383,7 @@ The hottest MCP category — giving AI the real ability to browse the web.
 | Server | GitHub | Description |
 |---|---|---|
 | 🔵 **Stripe MCP** | [stripe/agent-toolkit](https://github.com/stripe/agent-toolkit) | Stripe official; payments, subscriptions, invoices, refunds |
+| [nowork-studio/toprank](https://github.com/nowork-studio/toprank) | NotFair Google Ads MCP server. Diagnose campaigns, recommend optimizations, execute approved changes via the Google Ads API. |
 | 🔵 **Alby Bitcoin MCP** | Official | Connect Lightning Network Bitcoin wallet to agents; instant global payments |
 
 ---
