@@ -384,6 +384,7 @@ The hottest MCP category — giving AI the real ability to browse the web.
 |---|---|---|
 | 🔵 **Stripe MCP** | [stripe/agent-toolkit](https://github.com/stripe/agent-toolkit) | Stripe official; payments, subscriptions, invoices, refunds |
 | 🔵 **Alby Bitcoin MCP** | Official | Connect Lightning Network Bitcoin wallet to agents; instant global payments |
+| 🟢 **TWZRD Agent Intel** | [intel.twzrd.xyz](https://intel.twzrd.xyz) | Solana on-chain trust scoring for AI agents. Verify wallet reputation before x402 micropayments |
 
 ---
 
