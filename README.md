@@ -369,6 +369,7 @@ The hottest MCP category — giving AI the real ability to browse the web.
 | 🔵 **Adfin MCP** | Official | Unified payment platform: invoices, reconciliation, collections end-to-end |
 | ⭐ **n8n MCP** | [n8n-io/n8n](https://n8n.io) | Create and manage n8n workflows via AI; perfect fusion of automation and AI |
 | 🔵 **Chargebee MCP** | Official | Subscription billing management; SaaS financial operations |
+| 🆓 **NotFair** | [nowork-studio/NotFair](https://github.com/nowork-studio/NotFair) | Open-source Claude Code skills for SEO, GEO, Google Ads, and Meta Ads. Connects to Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP to diagnose performance and execute changes. ~2.9k stars; MIT |
 
 ### 🔐 Security & Compliance
 
