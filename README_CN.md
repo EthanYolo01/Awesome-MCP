@@ -506,6 +506,7 @@ MCP 赋予 AI 广泛的工具调用能力，安全问题不容忽视。
 - [MCP 快速上手](https://modelcontextprotocol.io/quickstart) — 30 分钟内构建你的第一个 MCP 服务器
 - [MCP 架构概述](https://modelcontextprotocol.io/docs/concepts/architecture) — 深入理解 Client-Server 架构和三大原语
 - [**microsoft/mcp-for-beginners**](https://github.com/microsoft/mcp-for-beginners) ⭐ — 微软出品的 MCP 入门课程；C# / Java / TypeScript / Python / Rust 多语言示例；对齐最新规范 2025-11-25
+- [AI全书 MCP 入门课程](https://aibook.ren/archives/mcp-course) — 面向中文开发者的 MCP 入门课程，覆盖协议概念、工具调用、客户端/服务端协作和 Agent 工程实践
 
 ### 深度技术文章
 
