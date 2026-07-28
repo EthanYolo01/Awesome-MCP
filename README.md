@@ -370,6 +370,7 @@ The hottest MCP category — giving AI the real ability to browse the web.
 | ⭐ **n8n MCP** | [n8n-io/n8n](https://n8n.io) | Create and manage n8n workflows via AI; perfect fusion of automation and AI |
 | 🔵 **Chargebee MCP** | Official | Subscription billing management; SaaS financial operations |
 
+| ⚫ **[Dark-Moon](https://github.com/ASCIT31/Dark-Moon)** | Community | Open source GPL-3.0 autonomous AI pentest platform for web, API, Active Directory and Kubernetes |
 ### 🔐 Security & Compliance
 
 | Server | GitHub | Description |
