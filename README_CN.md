@@ -358,6 +358,7 @@ MCP 的核心价值之一：**服务器配置一次，所有客户端通用**。
 | 🔵 **Keboola MCP** | 官方提供 | 构建数据工作流、集成管道和分析 |
 | 🔵 **Financial Datasets MCP** | 官方提供 | 面向 AI Agent 的股票市场数据 API |
 | 🔵 **CoinGecko MCP** | 官方提供 | 200+ 区块链网络、800 万+ Token 的加密货币价格和市场数据 |
+| **Jacobian** | [morluto/jacobian](https://github.com/morluto/jacobian) | 面向可组合数学的 MCP 服务器、CLI 和 Python 库，支持多项式映射、线性代数与图算法的精确计算和猜想检验。 |
 
 ### 🏢 效率与生产力
 
