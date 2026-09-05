@@ -268,6 +268,7 @@ MCP 的核心价值之一：**服务器配置一次，所有客户端通用**。
 | 🆓 **Chrome DevTools MCP** | [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 连接正在运行的 Chrome 实例，通过 DevTools Protocol 控制浏览器；Apache 2.0；完全免费 |
 | 🔵 **BrightData MCP** | [brightdata/mcp-server](https://github.com/brightdata/mcp-server-brightdata) | 通过 BrightData 代理网络访问公网数据；反爬虫处理；企业级数据采集 |
 | ⭐ **Fetch MCP** | [zcaceres/fetch-mcp](https://github.com/zcaceres/fetch-mcp) | 轻量级网页抓取，将 HTML 转换为 Markdown；无需浏览器；适合简单页面 |
+| **Agent QA** | [vostride/agent-qa](https://github.com/vostride/agent-qa) | 为编程智能体提供 MCP 工具，以自然语言编写和校验 Web、Android 与 iOS 测试、提交测试运行并检查运行产物；源码可见，采用 FSL-1.1-ALv2 许可，模型及基础设施提供商的费用另计 |
 
 ### 📁 文件系统与存储
 
