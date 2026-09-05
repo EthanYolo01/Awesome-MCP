@@ -269,6 +269,7 @@ The hottest MCP category — giving AI the real ability to browse the web.
 | 🆓 **Chrome DevTools MCP** | [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | Connects to a running Chrome instance, controls it via DevTools Protocol; Apache 2.0; completely free |
 | 🔵 **BrightData MCP** | [brightdata/mcp-server-brightdata](https://github.com/brightdata/mcp-server-brightdata) | Access public web data via BrightData proxy network; anti-bot handling; enterprise-grade data collection |
 | ⭐ **Fetch MCP** | [zcaceres/fetch-mcp](https://github.com/zcaceres/fetch-mcp) | Lightweight web scraping that converts HTML to Markdown; no browser required; ideal for simple pages |
+| **Agent QA** | [vostride/agent-qa](https://github.com/vostride/agent-qa) | MCP tools for coding agents to author and validate natural-language web, Android, and iOS tests, queue runs, and inspect artifacts; source-available under FSL-1.1-ALv2, with separate model and infrastructure provider costs |
 
 ### 📁 File System & Storage
 
