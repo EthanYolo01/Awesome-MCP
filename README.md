@@ -330,6 +330,8 @@ The hottest MCP category — giving AI the real ability to browse the web.
 
 ### 🔍 Search & Information Retrieval
 
+- **[Statsnet](https://github.com/usenetstate/statsnet-mcp)** — Background check any company in the world: registration, executives, courts and finances. Endpoint: `https://statsnet.co/mcp` · Registry: `io.github.usenetstate/statsnet`
+
 | Server | GitHub | Description |
 |---|---|---|
 | 🔵 **Brave Search MCP** | [brave/brave-search-mcp-server](https://github.com/brave/brave-search-mcp-server) | Brave official MCP; web and local search; privacy-first. Has a free tier |
