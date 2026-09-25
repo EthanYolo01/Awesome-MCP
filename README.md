@@ -362,6 +362,7 @@ The hottest MCP category — giving AI the real ability to browse the web.
 
 | Server | GitHub | Description |
 |---|---|---|
+| 🔵 **API.market MCP Gateway** | [Client metadata and docs](https://github.com/Noveum/api-market-agent-integrations) | Proprietary hosted API marketplace gateway at https://api.market/api/mcp/gateway; five tools for API discovery, execution, usage and subscriptions; Streamable HTTP with OAuth or API keys; free tiers and paid plans vary by API |
 | ⭐ **Composio MCP** | [composio/composio](https://github.com/composio/composio) | **One MCP connecting 1,000+ tools.** Salesforce, HubSpot, Trello, Asana, Google Drive and more; managed auth. 27,000+ GitHub Stars |
 | 🔵 **PandaDoc MCP** | Official | AI-assisted document creation, sending, and management; contract workflow automation |
 | 🔵 **PayPal MCP** | Official | PayPal official; payment operations, order management |

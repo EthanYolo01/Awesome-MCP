@@ -363,6 +363,7 @@ MCP 的核心价值之一：**服务器配置一次，所有客户端通用**。
 
 | 服务器 | GitHub | 说明 |
 |---|---|---|
+| 🔵 **API.market MCP Gateway** | [客户端元数据与文档](https://github.com/Noveum/api-market-agent-integrations) | 闭源托管 API 市场网关，端点为 https://api.market/api/mcp/gateway；提供五个工具，用于 API 发现、调用、用量查询和订阅管理；通过 Streamable HTTP 连接，支持 OAuth 或 API 密钥；免费额度和付费方案因 API 而异 |
 | ⭐ **Composio MCP** | [composio/composio](https://github.com/composio/composio) | **一个 MCP 连接 1,000+ 工具**；Salesforce、HubSpot、Trello、Asana、Google Drive 等；托管认证管理。27,000+ GitHub Stars |
 | 🔵 **PandaDoc MCP** | 官方提供 | AI 辅助文档创建、发送和管理；合同工作流自动化 |
 | 🔵 **PayPal MCP** | 官方提供 | PayPal 官方；支付操作、订单管理 |
