@@ -358,6 +358,7 @@ MCP 的核心价值之一：**服务器配置一次，所有客户端通用**。
 | 🔵 **Keboola MCP** | 官方提供 | 构建数据工作流、集成管道和分析 |
 | 🔵 **Financial Datasets MCP** | 官方提供 | 面向 AI Agent 的股票市场数据 API |
 | 🔵 **CoinGecko MCP** | 官方提供 | 200+ 区块链网络、800 万+ Token 的加密货币价格和市场数据 |
+| 🔵 **Eulerpool MCP** | [eulerpool/eulerpool-mcp](https://github.com/eulerpool/eulerpool-mcp) | 面向 AI Agent 的金融数据：250+ 工具，覆盖股票、基本面、ETF、宏观数据（FRED/ECB/IMF/世界银行）、加密货币、外汇、内部人交易、国会交易和期权流；托管服务器，支持 OAuth 或 API Key |
 
 ### 🏢 效率与生产力
 

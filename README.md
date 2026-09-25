@@ -357,6 +357,7 @@ The hottest MCP category — giving AI the real ability to browse the web.
 | 🔵 **Keboola MCP** | Official | Build data workflows, integration pipelines, and analytics |
 | 🔵 **Financial Datasets MCP** | Official | Stock market data API designed for AI agents |
 | 🔵 **CoinGecko MCP** | Official | Crypto price and market data across 200+ blockchains and 8M+ tokens |
+| 🔵 **Eulerpool MCP** | [eulerpool/eulerpool-mcp](https://github.com/eulerpool/eulerpool-mcp) | Financial data for AI agents: 250+ tools covering stocks, fundamentals, ETFs, macro (FRED/ECB/IMF/World Bank), crypto, FX, insider trades, congress trading and options flow; hosted server, OAuth or API key |
 
 ### 🏢 Productivity & Workflow
 
