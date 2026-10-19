@@ -380,6 +380,7 @@ The hottest MCP category — giving AI the real ability to browse the web.
 
 ### 💰 Finance & Payments
 
+| **Agent Payment Node** | [nuanu-ai/agent-payment-node](https://github.com/nuanu-ai/agent-payment-node) | Local macOS CLI and stdio MCP payments with foreground owner approval for signing. |
 | Server | GitHub | Description |
 |---|---|---|
 | 🔵 **Stripe MCP** | [stripe/agent-toolkit](https://github.com/stripe/agent-toolkit) | Stripe official; payments, subscriptions, invoices, refunds |
